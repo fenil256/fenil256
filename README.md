@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Khatri Fenil</h1>
-<h3 align="center">3rd Year Computer Engineering Student</h3>
+<h3 align="center">Pre-final Year Computer Engineering Student</h3>
 <section>
  
-* - 🔭 I’m currently Computer Engineering Student from India
+* - 🔭 I’m currently Computer Engineering Student
 * - 📈 I've completed Google Data Analytics Course from Coursera
 * - 🌱 I’m currently learning **Machine Learning** 
 * - 🎯 I've made some projects on Data Anlytics and Machine Learning.
-* - 👯 I’m looking to collaborate on Data Analytics Projects
+* - 👯 I’m looking to collaborate on Data Analytics and Machine Learning Projects
 </section>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
