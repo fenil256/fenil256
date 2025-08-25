@@ -3,7 +3,7 @@
 <h3 align="center">Pre-final Year Computer Engineering Student</h3>
 <section>
  
-* - 🔭 I’m currently Computer Engineering Student
+* - 🔭 I’m Computer Engineer
 * - 📈 I've completed Google Data Analytics Course from Coursera
 * - 🌱 I’m currently learning **Machine Learning** 
 * - 🎯 I've made some projects on Data Anlytics and Machine Learning.
